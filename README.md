@@ -1,2 +1,4 @@
 # Mailing
-Mailing coded during front-end bootcamp.
+
+Mailing coded during my front-end bootcamp.
+
